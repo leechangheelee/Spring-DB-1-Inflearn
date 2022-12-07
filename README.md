@@ -8,3 +8,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/프로젝트-생성.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/H2-데이터베이스-설정.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/JDBC-이해.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/JDBC와-최신-데이터-접근-기술.md

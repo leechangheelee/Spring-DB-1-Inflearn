@@ -12,3 +12,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/데이터베이스-연결.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/JDBC-개발-등록.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/JDBC-개발-조회.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/JDBC-개발-수정-삭제.md

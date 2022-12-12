@@ -19,3 +19,4 @@
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/커넥션-풀-이해.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DataSource-이해.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DataSource-예제1-DriverManager.md

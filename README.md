@@ -27,3 +27,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/207247920-d3ddd957-86e3-4d08-a6a9-9da316ae9d00.png)
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-개념이해.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/데이터베이스-연결-구조와-DB-세션.md

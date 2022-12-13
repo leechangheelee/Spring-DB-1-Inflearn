@@ -22,3 +22,6 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DataSource-예제1-DriverManager.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DataSource-예제2-커넥션-풀.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DataSource-적용.md
+
+## **트랜잭션 이해**
+![image](https://user-images.githubusercontent.com/79301439/207247920-d3ddd957-86e3-4d08-a6a9-9da316ae9d00.png)

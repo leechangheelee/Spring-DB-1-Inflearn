@@ -32,3 +32,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-DB-예제2-자동-커밋-수동-커밋.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-DB-예제3-트랜잭션-실습.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-DB-예제4-계좌이체.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DB-락-개념-이해.md

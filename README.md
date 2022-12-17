@@ -36,3 +36,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DB-락-변경.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DB-락-조회.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-적용1.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-적용2.md

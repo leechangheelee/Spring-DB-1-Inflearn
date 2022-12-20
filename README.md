@@ -42,3 +42,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/208616879-58e0865a-0903-4bfb-b5f5-f639c784d87f.png)
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/문제점들.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-추상화.md

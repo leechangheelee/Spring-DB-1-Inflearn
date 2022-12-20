@@ -37,3 +37,8 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/DB-락-조회.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-적용1.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-적용2.md
+
+## **스프링과 문제 해결 - 트랜잭션**
+![image](https://user-images.githubusercontent.com/79301439/208616879-58e0865a-0903-4bfb-b5f5-f639c784d87f.png)
+
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/문제점들.md

@@ -43,3 +43,4 @@
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/문제점들.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-추상화.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-동기화.md

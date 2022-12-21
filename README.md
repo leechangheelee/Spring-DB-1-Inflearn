@@ -50,3 +50,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-문제-해결-트랜잭션-AOP-이해.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-문제-해결-트랜잭션-AOP-적용.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-문제-해결-트랜잭션-AOP-정리.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/스프링-부트의-자동-리소스-등록.md

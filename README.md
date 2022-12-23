@@ -56,3 +56,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/209284738-7a85833a-2367-4884-9b32-9a7e3f33cba9.png)
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/예외-계층.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/예외-기본-규칙.md

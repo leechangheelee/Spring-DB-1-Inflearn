@@ -51,3 +51,8 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-문제-해결-트랜잭션-AOP-적용.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/트랜잭션-문제-해결-트랜잭션-AOP-정리.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/스프링-부트의-자동-리소스-등록.md
+
+## **자바 예외 이해**
+![image](https://user-images.githubusercontent.com/79301439/209284738-7a85833a-2367-4884-9b32-9a7e3f33cba9.png)
+
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/예외-계층.md

@@ -61,3 +61,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/언체크-예외-기본-이해.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/체크-예외-활용.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/언체크-예외-활용.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/예외-포함과-스택-트레이스.md

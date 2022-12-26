@@ -67,3 +67,4 @@
 ![image](https://user-images.githubusercontent.com/79301439/209510994-15715207-b956-4fe6-83dd-45181cc52f65.png)
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/체크-예외와-인터페이스.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/런타임-예외-적용.md

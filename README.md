@@ -68,3 +68,4 @@
 
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/체크-예외와-인터페이스.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/런타임-예외-적용.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/데이터-접근-예외-직접-만들기.md

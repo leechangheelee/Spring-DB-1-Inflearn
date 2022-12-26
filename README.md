@@ -62,3 +62,8 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/체크-예외-활용.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/언체크-예외-활용.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/예외-포함과-스택-트레이스.md
+
+## **스프링과 문제 해결 - 예외 처리, 반복**
+![image](https://user-images.githubusercontent.com/79301439/209510994-15715207-b956-4fe6-83dd-45181cc52f65.png)
+
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/체크-예외와-인터페이스.md

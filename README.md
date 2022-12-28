@@ -70,3 +70,4 @@
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/런타임-예외-적용.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/데이터-접근-예외-직접-만들기.md
   * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/스프링-예외-추상화-이해.md
+  * https://github.com/leechangheelee/Spring-DB-1-Inflearn/blob/main/스프링-예외-추상화-적용.md
